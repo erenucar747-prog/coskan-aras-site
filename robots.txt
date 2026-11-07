@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://erenucar747-prog.github.io
+Sitemap: https://erenucar747-prog.github.io/coskan-aras-site/sitemap.xml
